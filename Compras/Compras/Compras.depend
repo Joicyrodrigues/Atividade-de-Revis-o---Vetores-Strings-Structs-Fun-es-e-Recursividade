@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1724957595 source:c:\users\kille\onedrive\documents\desktop\programação\code blocks\codigos\compras\main.cpp
+	<iostream>
+	<string.h>
+	<iomanip>
+	<locale.h>
+
